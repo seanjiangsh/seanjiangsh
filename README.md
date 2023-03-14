@@ -8,7 +8,7 @@ A web developer working in the medical (DICOM) field.
 
 *   🌍  I'm based in Taipei, Taiwan
 *   ✉️  You can contact me at [seanjiangsh@gmail.com](mailto:seanjiangsh@gmail.com)
-*   🧠  I'm learning K8s
+*   🧠  I'm learning Express.js and K8s
 *   🤝  I'm open to collaborating on anything
 
 ### Skills 
