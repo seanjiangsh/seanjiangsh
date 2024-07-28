@@ -6,7 +6,10 @@ A web developer working in the medical (DICOM) field.
 
 - 🌍  I'm based in Taipei, Taiwan
 - 🖥️  See my portfolio at [sean-j.dev](http://sean-j.dev)
-- 🧠  I'm learning Python and ML### Skills
+- 🧠  I'm learning Python and ML
+
+### Skills
+
 <p align="left">
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
