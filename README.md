@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean
 
-## Fullstack developer
+## Just a Programmer
 
-A web developer working in the medical (DICOM) field.
+A developer passionate about exploring and building across a variety of interesting domains.
 
 - 🌍  I'm based in Taipei, Taiwan
 - 🖥️  See my portfolio at [sean-j.dev](http://sean-j.dev)
