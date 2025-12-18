@@ -6,7 +6,7 @@ A developer passionate about exploring and building across a variety of interest
 
 - 🌍  I'm based in Taipei, Taiwan
 - 🖥️  See my portfolio at [sean-j.dev](http://sean-j.dev)
-- 🧠  I'm learning Python and ML
+- 🧠  I'm learning math
 
 ### Skills
 
